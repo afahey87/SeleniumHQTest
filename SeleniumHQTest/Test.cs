@@ -15,12 +15,14 @@ namespace Alerts_and_Windows
     class SeleniumHQTest
     {
         IWebDriver driver;
+
         [SetUp]
         public void setup()
         {
             driver = new ChromeDriver();
             driver.Navigate().GoToUrl("http://www.seleniumhq.org/");
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
+            
         }
 
 
@@ -46,10 +48,23 @@ namespace Alerts_and_Windows
         [Test]
         public void SeleniumHQTest()
         {
-            driver.FindElement(By.XPath("/html/body/div[1]/div[1]/ul/li[5]/a")).Click();
+            // Element Declarations
+            var projectLinkElement = driver.FindElement(By.XPath("/html/body/div[1]/div[1]/ul/li[5]/a"));   
+
+            //.Click();
             driver.findElement(By.XPath("/html/body/div/div[2]/div[2]/div/h3[1]/a")).Click();
 
-            
+            //projectLinkElement.click();
+
+            //saveButton.click();
+
+
+
+            /*
+             
+             */
+
+            string projectLink = "/html/body/div[1]/div[1]/ul/li[5]/a";
         }
 
         
