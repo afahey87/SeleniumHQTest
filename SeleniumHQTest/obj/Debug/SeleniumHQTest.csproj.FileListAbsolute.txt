@@ -1,0 +1,14 @@
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\SeleniumHQTest.exe.config
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\SeleniumHQTest.exe
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\SeleniumHQTest.pdb
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\nunit.framework.dll
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\WebDriver.dll
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\WebDriver.Support.dll
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\nunit.framework.xml
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\WebDriver.xml
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\bin\Debug\WebDriver.Support.xml
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\obj\Debug\SeleniumHQTest.csproj.CoreCompileInputs.cache
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\obj\Debug\SeleniumHQTest.exe
+C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\SeleniumHQTest\SeleniumHQTest\obj\Debug\SeleniumHQTest.pdb
+C:\Users\adam.fahey\Documents\GitHub\SeleniumHQTest\SeleniumHQTest\obj\Debug\SeleniumHQTest.exe
+C:\Users\adam.fahey\Documents\GitHub\SeleniumHQTest\SeleniumHQTest\obj\Debug\SeleniumHQTest.pdb
